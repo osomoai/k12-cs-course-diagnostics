@@ -69,4 +69,4 @@ Figures generated from the analysis are located in the `outputs/figures/` direct
 | [Figure 6: CS Offering by Race/Ethnicity](Figures/fig6_juvenile_cs.png) | CS offering juvenile schools |
 | [Figure 7: CS Offering by Title I Status](Figures/fig7_grade_cs.png) | CS offering status by grade levels |
 | [Figure 8: Geographic Distribution of Schools](Figures/fig8_state_distribution.png) | Distribution of shortlisted schools across U.S. states |
-| [Figure 9: Geographic Distribution of Schools](Figures/fig8_state_distribution.png) | Distribution of schools based on CS courses offerings |
+| [Figure 9: Geographic Distribution of Schools](Figures/fig9_state_cs.png) | Distribution of schools based on CS courses offerings |
