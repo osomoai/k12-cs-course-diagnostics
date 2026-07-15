@@ -36,16 +36,14 @@ Together, these outputs provide a descriptive overview of the study sample and e
 
 ## Summary Tables
 
-Summary tables are stored in the `outputs/tables/` directory.
-
-| Table                                    | Description                                                                                                                        |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| `Table1_descriptive_statistics.csv`      | Distribution and summary statistics of CS course offerings by school year                                                          |
-| `Table2_categorical_characteristics.csv` | Student demographics and school characteristics (gender, race/ethnicity, Title I status, grade level, and juvenile justice status) |
-| `Table3_state_distribution.csv`          | Geographic distribution of shortlisted schools across U.S. states                                                                  |
-| `Table4_CS_by_TitleI.csv`                | CS course offering status by Title I classification                                                                                |
-| `Table5_CS_by_Race.csv`                  | CS course offering status by student race/ethnicity                                                                                |
-| `Table6_CS_by_Gender.csv`                | CS course offering status by student gender                                                                                        |
+| Table | Description |
+|-------|-------------|
+| [Table 1: Distribution of CS Course Offerings](Tables/Table1_descriptive_statistics.csv) | Distribution and summary statistics of CS course offerings by school year |
+| [Table 2: School Characteristics](Tables/Table2_categorical_characteristics.csv) | Student demographics and school characteristics |
+| [Table 3: Geographic Distribution](Tables/Table3_state_distribution.csv) | Distribution of shortlisted schools across U.S. states |
+| [Table 4: CS Offering by Title I Status](Tables/Table4_CS_by_TitleI.csv) | CS offering status by Title I classification |
+| [Table 5: CS Offering by Race/Ethnicity](Tables/Table5_CS_by_Race.csv) | CS offering status by race/ethnicity |
+| [Table 6: CS Offering by Gender](Tables/Table6_CS_by_Gender.csv) | CS offering status by gender |                                                                                      |
 
 ---
 
@@ -53,12 +51,13 @@ Summary tables are stored in the `outputs/tables/` directory.
 
 Figures generated from the analysis are located in the `outputs/figures/` directory.
 
-| Figure               | Description                                                                      |
-| -------------------- | -------------------------------------------------------------------------------- |
-| `fig1_his.png`       | Distribution of CS classes offered across schools by school year                 |
-| `cs_zero_plot.png`   | Percentage of schools with and without CS course offerings by school year        |
-| `title1_cs_plot.png` | CS course offering status by Title I classification and school year              |
-| `gender_cs_plot.png` | CS course offering status by student gender and school year                      |
-| `race_cs_plot.png`   | CS course offering status by student race/ethnicity and school year              |
-| `state_plot.png`     | Geographic distribution of shortlisted schools across U.S. states by school year |
+## Figures
 
+| Figure | Description |
+|--------|-------------|
+| [Figure 1: Distribution of CS Course Offerings](Figures/fig1_his.png) | Histogram of CS classes offered across schools by school year |
+| [Figure 2: Schools With and Without CS Offerings](Figures/cs_zero_plot.png) | Percentage of schools with and without CS course offerings |
+| [Figure 3: CS Offering by Title I Status](Figures/title1_cs_plot.png) | CS offering status by Title I classification |
+| [Figure 4: CS Offering by Gender](Figures/gender_cs_plot.png) | CS offering status by student gender |
+| [Figure 5: CS Offering by Race/Ethnicity](Figures/race_cs_plot.png) | CS offering status by race/ethnicity |
+| [Figure 6: Geographic Distribution of Schools](Figures/state_plot.png) | Distribution of shortlisted schools across U.S. states |
