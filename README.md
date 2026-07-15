@@ -61,8 +61,9 @@ Figures generated from the analysis are located in the `outputs/figures/` direct
 
 | Figure | Description |
 |--------|-------------|
-| [Figure 1: Distribution of CS Course Offerings](Figures/fig1_his.png) | Histogram of CS classes offered across schools by school year |
-| [Figure 2: Schools With and Without CS Offerings](Figures/cs_zero_plot.png) | Percentage of schools with and without CS course offerings |
+| [Figure 1: Distribution of CS Course Offerings](Figures/fig1_distribution.png) | Histogram of CS classes offered across schools by school year |
+| [Figure 2: Schools With and Without CS Offerings](Figures/cs_status.png) | Percentage of schools with and without CS course offerings |
+| [Figure 3: CS Offering by Gender](Figures/gender_cs_plot.png) | CS offering status by Gender |
 | [Figure 3: CS Offering by Title I Status](Figures/title1_cs_plot.png) | CS offering status by Title I classification |
 | [Figure 4: CS Offering by Gender](Figures/gender_cs_plot.png) | CS offering status by student gender |
 | [Figure 5: CS Offering by Race/Ethnicity](Figures/race_cs_plot.png) | CS offering status by race/ethnicity |
