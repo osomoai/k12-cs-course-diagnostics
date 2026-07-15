@@ -1,0 +1,25 @@
+"SCHOOL_YEAR","Race_Ethnicity","CS_Status","Count","Percent"
+"2020-2021","American_Indian","At Least One CS Class",146412,57.87
+"2020-2021","Asian","At Least One CS Class",1152676,81.57
+"2020-2021","Black","At Least One CS Class",3014832,69.08
+"2020-2021","Hispanic","At Least One CS Class",5608756,67.37
+"2020-2021","Multiracial","At Least One CS Class",741596,74.61
+"2020-2021","White","At Least One CS Class",10768051,73.39
+"2020-2021","American_Indian","No CS Classes",106606,42.13
+"2020-2021","Asian","No CS Classes",260376,18.43
+"2020-2021","Black","No CS Classes",1349634,30.92
+"2020-2021","Hispanic","No CS Classes",2716260,32.63
+"2020-2021","Multiracial","No CS Classes",252418,25.39
+"2020-2021","White","No CS Classes",3905310,26.61
+"2021-2022","American_Indian","At Least One CS Class",151974,59.07
+"2021-2022","Asian","At Least One CS Class",1214780,81.04
+"2021-2022","Black","At Least One CS Class",3212522,71.49
+"2021-2022","Hispanic","At Least One CS Class",6090161,68.45
+"2021-2022","Multiracial","At Least One CS Class",865078,76.98
+"2021-2022","White","At Least One CS Class",11075928,74.52
+"2021-2022","American_Indian","No CS Classes",105292,40.93
+"2021-2022","Asian","No CS Classes",284244,18.96
+"2021-2022","Black","No CS Classes",1281222,28.51
+"2021-2022","Hispanic","No CS Classes",2807218,31.55
+"2021-2022","Multiracial","No CS Classes",258648,23.02
+"2021-2022","White","No CS Classes",3786953,25.48
