@@ -2,12 +2,15 @@
 
 This repository contains the descriptive analyses and visualizations used to characterize K–12 public schools included in the study of Computer Science (CS) course offerings during the 2020–2021 and 2021–2022 school years.
 
-The analyses summarize the distribution of CS course offerings, school characteristics, student demographics, and geographic representation, providing a comprehensive overview of the study sample prior to inferential modeling.
-
-The analyses are based on the cleaned dataset produced in the companion repository: https://github.com/osomoai/k12-cs-course-pipeline-analysis
+The analyses summarize the distribution of CS course offerings, school characteristics, student demographics, and geographic representation, providing a comprehensive overview of the study sample prior to inferential modeling. The analyses are based on the cleaned dataset produced in the companion repository: https://github.com/osomoai/k12-cs-course-pipeline-analysis
 
 **Author:** Omodolapo Ojo, PhD  
 
+---
+
+**Follow the links below to access all the tables and figures generated from the analysis, located in the `Outputs/Tables/` and `Outputs/Figures/` directories.**
+
+Put the one figure here
 ---
 
 ## Focus
@@ -54,10 +57,6 @@ This repository produces a comprehensive set of descriptive statistics, summary 
 ---
 
 ## Visualizations
-
-Figures generated from the analysis are located in the `outputs/figures/` directory.
-
-## Figures
 
 | Figure | Description |
 |--------|-------------|
