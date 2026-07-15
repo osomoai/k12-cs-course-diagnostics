@@ -4,9 +4,7 @@ This repository contains the descriptive analyses and visualizations used to cha
 
 The analyses summarize the distribution of CS course offerings, school characteristics, student demographics, and geographic representation, providing a comprehensive overview of the study sample prior to inferential modeling.
 
-The analyses are based on the cleaned dataset produced in the companion repository:
-
-https://github.com/osomoai/k12-cs-course-pipeline-analysis
+The analyses are based on the cleaned dataset produced in the companion repository: https://github.com/osomoai/k12-cs-course-pipeline-analysis
 
 **Author:** Omodolapo Ojo, PhD  
 
@@ -15,22 +13,30 @@ https://github.com/osomoai/k12-cs-course-pipeline-analysis
 ## Focus
 This repository addresses the following descriptive questions:
 1. **What are the characteristics of the shortlisted schools and the distribution of CS course offerings across the 2020–2021 and 2021–2022 school years?**
-2. **What are the demographic and institutional characteristics of the shortlisted schools across the two school years?**
-3. **How are the shortlisted schools geographically distributed across U.S. states?**
+2. **What are the demographic and institutional characteristics of the shortlisted schools (e.g., gender, race/ethnicity, Title I status, juvenile justice status, and grade level) across the two school years?**
+3. **How are the shortlisted schools geographically distributed across U.S. states during the 2020–2021 and 2021–2022 school years?**
 4. **Among schools with different Title I classifications, what proportion offer at least one CS course versus no CS courses, and does this pattern differ across school years?**
-5. **Among students of different racial and ethnic groups, what proportion are enrolled in schools with versus without CS course offerings across school years?**
-6. **Among female and male students, what proportion are enrolled in schools with versus without CS course offerings across school years?**
+5. **Among elementary, middle, and high schools, what proportion offer at least one CS course versus no CS courses, and does this pattern differ across school years?**
+6. **Among juvenile justice and non-juvenile justice schools, what proportion offer at least one CS course versus no CS courses, and does this pattern differ across school years?**
+7. **Among students of different racial and ethnic groups, what proportion are enrolled in schools with versus without CS course offerings across school years?**
+8. **Among female and male students, what proportion are enrolled in schools with versus without CS course offerings across school years?**
+9. **Among schools within each U.S. state, what proportion offer at least one CS course versus no CS courses, and how does this pattern vary across the 2020–2021 and 2021–2022 school years?**
 
 ---
 
 ## Analytical Outputs
 
-This repository produces:
-- **Descriptive summary tables** of school characteristics, student demographics, and CS course offerings.
-- **Exploratory visualizations** illustrating the distribution of CS course offerings and equity-related patterns across school years.
-- **Summary statistics** describing the frequency, variability, and distribution of CS course offerings.
+This repository produces a comprehensive set of descriptive statistics, summary tables, and visualizations examining K–12 computer science course offerings across U.S. public schools. The analyses include:
 
-Together, these outputs provide a descriptive overview of the study sample and establish the empirical context for subsequent statistical analyses.
+- Distribution of CS course offerings by school year
+- School-level descriptive statistics
+- Gender composition of enrolled students
+- Racial and ethnic composition of enrolled students
+- Distribution of schools by Title I classification
+- Distribution of schools by Juvenile Justice status
+- Distribution of schools by grade level
+- Geographic distribution of schools across U.S. states
+- Comparisons of schools offering versus not offering CS courses across several demographic factors
 
 ---
 
