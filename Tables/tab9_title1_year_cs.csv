@@ -1,0 +1,17 @@
+"SCHOOL_YEAR","TitleI_Status","CS_Status","Count","Percent"
+"2020-2021","Mixed","At Least One CS Class",1616,43.73
+"2020-2021","Mixed","No CS Classes",2079,56.27
+"2020-2021","Not_TitleI","At Least One CS Class",4123,55.22
+"2020-2021","Not_TitleI","No CS Classes",3343,44.78
+"2020-2021","Schoolwide","At Least One CS Class",4765,47.47
+"2020-2021","Schoolwide","No CS Classes",5272,52.53
+"2020-2021","Targeted","At Least One CS Class",1981,59.44
+"2020-2021","Targeted","No CS Classes",1352,40.56
+"2021-2022","Mixed","At Least One CS Class",1040,37.83
+"2021-2022","Mixed","No CS Classes",1709,62.17
+"2021-2022","Not_TitleI","At Least One CS Class",4568,55.85
+"2021-2022","Not_TitleI","No CS Classes",3611,44.15
+"2021-2022","Schoolwide","At Least One CS Class",5179,49.21
+"2021-2022","Schoolwide","No CS Classes",5345,50.79
+"2021-2022","Targeted","At Least One CS Class",2187,59.24
+"2021-2022","Targeted","No CS Classes",1505,40.76

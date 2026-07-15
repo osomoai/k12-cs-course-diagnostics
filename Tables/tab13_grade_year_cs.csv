@@ -1,0 +1,13 @@
+"SCHOOL_YEAR","Grade_Level","CS_Status","Count","Percent"
+"2020-2021","Elementary","At Least One CS Class",1355,31.56
+"2020-2021","Elementary","No CS Classes",2939,68.44
+"2020-2021","High","At Least One CS Class",12465,50.99
+"2020-2021","High","No CS Classes",11981,49.01
+"2020-2021","Middle","At Least One CS Class",3356,37.67
+"2020-2021","Middle","No CS Classes",5552,62.33
+"2021-2022","Elementary","At Least One CS Class",1315,31.72
+"2021-2022","Elementary","No CS Classes",2830,68.28
+"2021-2022","High","At Least One CS Class",12938,51.75
+"2021-2022","High","No CS Classes",12061,48.25
+"2021-2022","Middle","At Least One CS Class",3597,37.9
+"2021-2022","Middle","No CS Classes",5894,62.1

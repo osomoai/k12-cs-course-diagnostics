@@ -1,0 +1,209 @@
+"SCHOOL_YEAR","State_Code","CS_Status","Count","Percent"
+"2020-2021","AK","At Least One CS Class",67,24.28
+"2020-2021","AK","No CS Classes",209,75.72
+"2020-2021","AL","At Least One CS Class",244,61.77
+"2020-2021","AL","No CS Classes",151,38.23
+"2020-2021","AR","At Least One CS Class",294,86.73
+"2020-2021","AR","No CS Classes",45,13.27
+"2020-2021","AZ","At Least One CS Class",199,37.27
+"2020-2021","AZ","No CS Classes",335,62.73
+"2020-2021","CA","At Least One CS Class",934,35.65
+"2020-2021","CA","No CS Classes",1686,64.35
+"2020-2021","CO","At Least One CS Class",341,65.33
+"2020-2021","CO","No CS Classes",181,34.67
+"2020-2021","CT","At Least One CS Class",146,72.28
+"2020-2021","CT","No CS Classes",56,27.72
+"2020-2021","DC","At Least One CS Class",10,23.81
+"2020-2021","DC","No CS Classes",32,76.19
+"2020-2021","DE","At Least One CS Class",31,55.36
+"2020-2021","DE","No CS Classes",25,44.64
+"2020-2021","FL","At Least One CS Class",242,22.02
+"2020-2021","FL","No CS Classes",857,77.98
+"2020-2021","GA","At Least One CS Class",343,66.86
+"2020-2021","GA","No CS Classes",170,33.14
+"2020-2021","HI","At Least One CS Class",44,64.71
+"2020-2021","HI","No CS Classes",24,35.29
+"2020-2021","IA","At Least One CS Class",294,83.52
+"2020-2021","IA","No CS Classes",58,16.48
+"2020-2021","ID","At Least One CS Class",104,42.45
+"2020-2021","ID","No CS Classes",141,57.55
+"2020-2021","IL","At Least One CS Class",435,60.25
+"2020-2021","IL","No CS Classes",287,39.75
+"2020-2021","IN","At Least One CS Class",298,68.04
+"2020-2021","IN","No CS Classes",140,31.96
+"2020-2021","KS","At Least One CS Class",169,46.69
+"2020-2021","KS","No CS Classes",193,53.31
+"2020-2021","KY","At Least One CS Class",225,56.53
+"2020-2021","KY","No CS Classes",173,43.47
+"2020-2021","LA","At Least One CS Class",137,36.05
+"2020-2021","LA","No CS Classes",243,63.95
+"2020-2021","MA","At Least One CS Class",306,75.74
+"2020-2021","MA","No CS Classes",98,24.26
+"2020-2021","MD","At Least One CS Class",203,78.08
+"2020-2021","MD","No CS Classes",57,21.92
+"2020-2021","ME","At Least One CS Class",61,48.03
+"2020-2021","ME","No CS Classes",66,51.97
+"2020-2021","MI","At Least One CS Class",426,35.56
+"2020-2021","MI","No CS Classes",772,64.44
+"2020-2021","MN","At Least One CS Class",228,27.54
+"2020-2021","MN","No CS Classes",600,72.46
+"2020-2021","MO","At Least One CS Class",303,52.7
+"2020-2021","MO","No CS Classes",272,47.3
+"2020-2021","MS","At Least One CS Class",126,50.81
+"2020-2021","MS","No CS Classes",122,49.19
+"2020-2021","MT","At Least One CS Class",101,56.11
+"2020-2021","MT","No CS Classes",79,43.89
+"2020-2021","NC","At Least One CS Class",329,47.2
+"2020-2021","NC","No CS Classes",368,52.8
+"2020-2021","ND","At Least One CS Class",76,44.44
+"2020-2021","ND","No CS Classes",95,55.56
+"2020-2021","NE","At Least One CS Class",234,87.64
+"2020-2021","NE","No CS Classes",33,12.36
+"2020-2021","NH","At Least One CS Class",71,71.72
+"2020-2021","NH","No CS Classes",28,28.28
+"2020-2021","NJ","At Least One CS Class",360,70.45
+"2020-2021","NJ","No CS Classes",151,29.55
+"2020-2021","NM","At Least One CS Class",71,32.87
+"2020-2021","NM","No CS Classes",145,67.13
+"2020-2021","NV","At Least One CS Class",126,73.26
+"2020-2021","NV","No CS Classes",46,26.74
+"2020-2021","NY","At Least One CS Class",491,55.54
+"2020-2021","NY","No CS Classes",393,44.46
+"2020-2021","OH","At Least One CS Class",554,61.97
+"2020-2021","OH","No CS Classes",340,38.03
+"2020-2021","OK","At Least One CS Class",313,64.67
+"2020-2021","OK","No CS Classes",171,35.33
+"2020-2021","OR","At Least One CS Class",130,37.9
+"2020-2021","OR","No CS Classes",213,62.1
+"2020-2021","PA","At Least One CS Class",486,66.03
+"2020-2021","PA","No CS Classes",250,33.97
+"2020-2021","PR","At Least One CS Class",118,51.08
+"2020-2021","PR","No CS Classes",113,48.92
+"2020-2021","RI","At Least One CS Class",53,85.48
+"2020-2021","RI","No CS Classes",9,14.52
+"2020-2021","SC","At Least One CS Class",218,82.58
+"2020-2021","SC","No CS Classes",46,17.42
+"2020-2021","SD","At Least One CS Class",117,59.69
+"2020-2021","SD","No CS Classes",79,40.31
+"2020-2021","TN","At Least One CS Class",197,45.71
+"2020-2021","TN","No CS Classes",234,54.29
+"2020-2021","TX","At Least One CS Class",1068,47.42
+"2020-2021","TX","No CS Classes",1184,52.58
+"2020-2021","UT","At Least One CS Class",228,74.03
+"2020-2021","UT","No CS Classes",80,25.97
+"2020-2021","VA","At Least One CS Class",261,78.38
+"2020-2021","VA","No CS Classes",72,21.62
+"2020-2021","VT","At Least One CS Class",25,44.64
+"2020-2021","VT","No CS Classes",31,55.36
+"2020-2021","WA","At Least One CS Class",229,32.67
+"2020-2021","WA","No CS Classes",472,67.33
+"2020-2021","WI","At Least One CS Class",302,50.76
+"2020-2021","WI","No CS Classes",293,49.24
+"2020-2021","WV","At Least One CS Class",68,46.58
+"2020-2021","WV","No CS Classes",78,53.42
+"2020-2021","WY","At Least One CS Class",49,49.49
+"2020-2021","WY","No CS Classes",50,50.51
+"2021-2022","AK","At Least One CS Class",55,19.93
+"2021-2022","AK","No CS Classes",221,80.07
+"2021-2022","AL","At Least One CS Class",277,68.23
+"2021-2022","AL","No CS Classes",129,31.77
+"2021-2022","AR","At Least One CS Class",266,78.01
+"2021-2022","AR","No CS Classes",75,21.99
+"2021-2022","AZ","At Least One CS Class",190,33.99
+"2021-2022","AZ","No CS Classes",369,66.01
+"2021-2022","CA","At Least One CS Class",987,37.37
+"2021-2022","CA","No CS Classes",1654,62.63
+"2021-2022","CO","At Least One CS Class",349,65.6
+"2021-2022","CO","No CS Classes",183,34.4
+"2021-2022","CT","At Least One CS Class",154,77
+"2021-2022","CT","No CS Classes",46,23
+"2021-2022","DC","At Least One CS Class",24,55.81
+"2021-2022","DC","No CS Classes",19,44.19
+"2021-2022","DE","At Least One CS Class",32,55.17
+"2021-2022","DE","No CS Classes",26,44.83
+"2021-2022","FL","At Least One CS Class",248,22.12
+"2021-2022","FL","No CS Classes",873,77.88
+"2021-2022","GA","At Least One CS Class",364,70.27
+"2021-2022","GA","No CS Classes",154,29.73
+"2021-2022","HI","At Least One CS Class",42,61.76
+"2021-2022","HI","No CS Classes",26,38.24
+"2021-2022","IA","At Least One CS Class",313,86.46
+"2021-2022","IA","No CS Classes",49,13.54
+"2021-2022","ID","At Least One CS Class",102,39.53
+"2021-2022","ID","No CS Classes",156,60.47
+"2021-2022","IL","At Least One CS Class",443,60.68
+"2021-2022","IL","No CS Classes",287,39.32
+"2021-2022","IN","At Least One CS Class",313,70.34
+"2021-2022","IN","No CS Classes",132,29.66
+"2021-2022","KS","At Least One CS Class",182,45.61
+"2021-2022","KS","No CS Classes",217,54.39
+"2021-2022","KY","At Least One CS Class",239,59.6
+"2021-2022","KY","No CS Classes",162,40.4
+"2021-2022","LA","At Least One CS Class",143,37.63
+"2021-2022","LA","No CS Classes",237,62.37
+"2021-2022","MA","At Least One CS Class",307,75.06
+"2021-2022","MA","No CS Classes",102,24.94
+"2021-2022","MD","At Least One CS Class",215,80.52
+"2021-2022","MD","No CS Classes",52,19.48
+"2021-2022","ME","At Least One CS Class",61,49.19
+"2021-2022","ME","No CS Classes",63,50.81
+"2021-2022","MI","At Least One CS Class",431,35.83
+"2021-2022","MI","No CS Classes",772,64.17
+"2021-2022","MN","At Least One CS Class",217,25.29
+"2021-2022","MN","No CS Classes",641,74.71
+"2021-2022","MO","At Least One CS Class",287,47.2
+"2021-2022","MO","No CS Classes",321,52.8
+"2021-2022","MS","At Least One CS Class",144,59.02
+"2021-2022","MS","No CS Classes",100,40.98
+"2021-2022","MT","At Least One CS Class",101,53.44
+"2021-2022","MT","No CS Classes",88,46.56
+"2021-2022","NC","At Least One CS Class",513,71.45
+"2021-2022","NC","No CS Classes",205,28.55
+"2021-2022","ND","At Least One CS Class",74,42.29
+"2021-2022","ND","No CS Classes",101,57.71
+"2021-2022","NE","At Least One CS Class",206,76.87
+"2021-2022","NE","No CS Classes",62,23.13
+"2021-2022","NH","At Least One CS Class",66,68.75
+"2021-2022","NH","No CS Classes",30,31.25
+"2021-2022","NJ","At Least One CS Class",332,62.76
+"2021-2022","NJ","No CS Classes",197,37.24
+"2021-2022","NM","At Least One CS Class",94,41.05
+"2021-2022","NM","No CS Classes",135,58.95
+"2021-2022","NV","At Least One CS Class",126,73.68
+"2021-2022","NV","No CS Classes",45,26.32
+"2021-2022","NY","At Least One CS Class",512,57.59
+"2021-2022","NY","No CS Classes",377,42.41
+"2021-2022","OH","At Least One CS Class",589,56.91
+"2021-2022","OH","No CS Classes",446,43.09
+"2021-2022","OK","At Least One CS Class",365,73.15
+"2021-2022","OK","No CS Classes",134,26.85
+"2021-2022","OR","At Least One CS Class",152,43.06
+"2021-2022","OR","No CS Classes",201,56.94
+"2021-2022","PA","At Least One CS Class",486,66.39
+"2021-2022","PA","No CS Classes",246,33.61
+"2021-2022","PR","At Least One CS Class",104,44.44
+"2021-2022","PR","No CS Classes",130,55.56
+"2021-2022","RI","At Least One CS Class",50,79.37
+"2021-2022","RI","No CS Classes",13,20.63
+"2021-2022","SC","At Least One CS Class",218,80.74
+"2021-2022","SC","No CS Classes",52,19.26
+"2021-2022","SD","At Least One CS Class",102,52.31
+"2021-2022","SD","No CS Classes",93,47.69
+"2021-2022","TN","At Least One CS Class",223,48.9
+"2021-2022","TN","No CS Classes",233,51.1
+"2021-2022","TX","At Least One CS Class",1116,47.73
+"2021-2022","TX","No CS Classes",1222,52.27
+"2021-2022","UT","At Least One CS Class",196,62.42
+"2021-2022","UT","No CS Classes",118,37.58
+"2021-2022","VA","At Least One CS Class",252,75.22
+"2021-2022","VA","No CS Classes",83,24.78
+"2021-2022","VT","At Least One CS Class",30,53.57
+"2021-2022","VT","No CS Classes",26,46.43
+"2021-2022","WA","At Least One CS Class",279,39.35
+"2021-2022","WA","No CS Classes",430,60.65
+"2021-2022","WI","At Least One CS Class",264,43.49
+"2021-2022","WI","No CS Classes",343,56.51
+"2021-2022","WV","At Least One CS Class",82,61.65
+"2021-2022","WV","No CS Classes",51,38.35
+"2021-2022","WY","At Least One CS Class",57,57
+"2021-2022","WY","No CS Classes",43,43
