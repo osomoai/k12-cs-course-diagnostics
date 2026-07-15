@@ -62,9 +62,11 @@ Figures generated from the analysis are located in the `outputs/figures/` direct
 | Figure | Description |
 |--------|-------------|
 | [Figure 1: Distribution of CS Course Offerings](Figures/fig1_distribution.png) | Histogram of CS classes offered across schools by school year |
-| [Figure 2: Schools With and Without CS Offerings](Figures/cs_status.png) | Percentage of schools with and without CS course offerings |
-| [Figure 3: CS Offering by Gender](Figures/gender_cs_plot.png) | CS offering status by Gender |
-| [Figure 3: CS Offering by Title I Status](Figures/title1_cs_plot.png) | CS offering status by Title I classification |
-| [Figure 4: CS Offering by Gender](Figures/gender_cs_plot.png) | CS offering status by student gender |
-| [Figure 5: CS Offering by Race/Ethnicity](Figures/race_cs_plot.png) | CS offering status by race/ethnicity |
-| [Figure 6: Geographic Distribution of Schools](Figures/state_plot.png) | Distribution of shortlisted schools across U.S. states |
+| [Figure 2: Schools With and Without CS Offerings](Figures/fig2_cs_status.png) | Percentage of schools with and without CS course offerings |
+| [Figure 3: CS Offering by Gender](Figures/fig3_gender_cs.png) | CS offering status by student gender |
+| [Figure 4: CS Offering by Race/Ethnicity](Figures/fig4_race_cs.png) | CS offering status by race/ethnicity |
+| [Figure 5: CS Offering by Title I Status](Figures/fig5_title1_cs.png) | CS offering status by Title I classification |
+| [Figure 6: CS Offering by Race/Ethnicity](Figures/fig4_race_cs.png) | CS offering status by race/ethnicity |
+| [Figure 7: CS Offering by Title I Status](Figures/fig5_title1_cs.png) | CS offering status by Title I classification |
+| [Figure 6: Geographic Distribution of Schools](Figures/fig8_state_distribution.png) | Distribution of shortlisted schools across U.S. states |
+| [Figure 6: Geographic Distribution of Schools](Figures/fig8_state_distribution.png) | Distribution of shortlisted schools across U.S. states |
