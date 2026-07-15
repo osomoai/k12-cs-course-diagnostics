@@ -1,62 +1,64 @@
-# k12-cs-course-diagnostics
-This repository conducts descriptive and diagnostic analysis of key variables used to study K–12 computer science (CS) course access in U.S. public schools.
-The focus is on understanding the distribution, variation, and statistical properties of the independent variable:
-CS Course Offerings (CS_Classes_Offered)
+# K–12 Computer Science Course Offerings: A Descriptive Analysis (2020–2022)
 
-Using the cleaned dataset produced in the companion repository:
-k12-cs-course-data-pipeline
+This repository contains the descriptive analyses and visualizations used to characterize K–12 public schools included in the study of Computer Science (CS) course offerings during the 2020–2021 and 2021–2022 school years.
+
+The analyses summarize the distribution of CS course offerings, school characteristics, student demographics, and geographic representation, providing a comprehensive overview of the study sample prior to inferential modeling.
+
+The analyses are based on the cleaned dataset produced in the companion repository:
+
+https://github.com/osomoai/k12-cs-course-pipeline-analysis
 
 **Author:** Omodolapo Ojo, PhD  
 
 ---
 
 ## Focus
-This project examines the following hihglighted questions. 
-The goal is to ensure the independent variable used in later statistical models is well-understood, well-behaved, and properly specified.
-
-1. **How widely available are CS courses across U.S. schools?**
-2. **Does access to CS courses differ by Title I status?**
-3. **How does CS availability vary across school levels (Elementary, Middle, High)?**
-4. **What gender participation patterns exist in CS enrollment?**
-5. **What is the racial composition of students enrolled in CS courses?**
-6. **Did access to CS courses change between the 2020–21 and 2021–22 school years?**
+This repository addresses the following descriptive questions:
+1. **What are the characteristics of the shortlisted schools and the distribution of CS course offerings across the 2020–2021 and 2021–2022 school years?**
+2. **What are the demographic and institutional characteristics of the shortlisted schools across the two school years?**
+3. **How are the shortlisted schools geographically distributed across U.S. states?**
+4. **Among schools with different Title I classifications, what proportion offer at least one CS course versus no CS courses, and does this pattern differ across school years?**
+5. **Among students of different racial and ethnic groups, what proportion are enrolled in schools with versus without CS course offerings across school years?**
+6. **Among female and male students, what proportion are enrolled in schools with versus without CS course offerings across school years?**
 
 ---
 
 ## Analytical Outputs
 
-This repository produces the following descriptive outputs:
+This repository produces:
+- **Descriptive summary tables** of school characteristics, student demographics, and CS course offerings.
+- **Exploratory visualizations** illustrating the distribution of CS course offerings and equity-related patterns across school years.
+- **Summary statistics** describing the frequency, variability, and distribution of CS course offerings.
 
-- **Summary tables** examining CS access and participation by Title I status, school level, race, and gender  
-- **Visualizations** illustrating the distribution and participation patterns of CS course offerings  
-
-These outputs provide an overview of the **availability and demographic participation in CS education across schools**.
+Together, these outputs provide a descriptive overview of the study sample and establish the empirical context for subsequent statistical analyses.
 
 ---
 
 ## Summary Tables
 
-Summary tables are stored in the `output/` directory.
+Summary tables are stored in the `outputs/tables/` directory.
 
-| File | Description |
-|------|-------------|
-| `titleI_summary.csv` | Summary of CS course access by Title I status |
-| `grade_level_summary.csv` | CS course availability by school level |
-| `gender_summary.csv` | Average gender composition of CS enrollment |
-| `race_summary.csv` | Racial composition of CS enrollment |
-| `cs_status_table.csv` | Number of schools offering versus not offering CS courses |
-| `distribution_summary.csv` | Distribution statistics for the number of CS classes offered |
+| Table                                    | Description                                                                                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Table1_descriptive_statistics.csv`      | Distribution and summary statistics of CS course offerings by school year                                                          |
+| `Table2_categorical_characteristics.csv` | Student demographics and school characteristics (gender, race/ethnicity, Title I status, grade level, and juvenile justice status) |
+| `Table3_state_distribution.csv`          | Geographic distribution of shortlisted schools across U.S. states                                                                  |
+| `Table4_CS_by_TitleI.csv`                | CS course offering status by Title I classification                                                                                |
+| `Table5_CS_by_Race.csv`                  | CS course offering status by student race/ethnicity                                                                                |
+| `Table6_CS_by_Gender.csv`                | CS course offering status by student gender                                                                                        |
 
 ---
 
 ## Visualizations
 
-Figures generated from the analysis are located in the `figures/` directory.
+Figures generated from the analysis are located in the `outputs/figures/` directory.
 
-| File | Description |
-|------|-------------|
-| `fig1_distribution.png` | Distribution of the number of CS classes offered across schools |
-| `fig_cs_status.png` | Schools offering versus not offering CS courses |
-| `gender_share.png` | Gender composition of CS enrollment |
-| `titleI_access.png` | CS course access by Title I status |
-| `grade_level_access.png` | CS course availability by school level |
+| Figure               | Description                                                                      |
+| -------------------- | -------------------------------------------------------------------------------- |
+| `fig1_his.png`       | Distribution of CS classes offered across schools by school year                 |
+| `cs_zero_plot.png`   | Percentage of schools with and without CS course offerings by school year        |
+| `title1_cs_plot.png` | CS course offering status by Title I classification and school year              |
+| `gender_cs_plot.png` | CS course offering status by student gender and school year                      |
+| `race_cs_plot.png`   | CS course offering status by student race/ethnicity and school year              |
+| `state_plot.png`     | Geographic distribution of shortlisted schools across U.S. states by school year |
+
