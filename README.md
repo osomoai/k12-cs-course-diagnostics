@@ -44,7 +44,7 @@ This repository produces a comprehensive set of descriptive statistics, summary 
 
 | Table | Description |
 |-------|-------------|
-| [Table 1: Distribution of CS Course Offerings](Tables/Table1_descriptive_statistics.csv) | Distribution and summary statistics of CS course offerings by school year |
+| [Table 1: Distribution of CS Course Offerings](Tables/tab1_school_summary.csv) | Distribution and summary statistics of CS course offerings by school year |
 | [Table 2: School Characteristics](Tables/Table2_categorical_characteristics.csv) | Student demographics and school characteristics |
 | [Table 3: Geographic Distribution](Tables/Table3_state_distribution.csv) | Distribution of shortlisted schools across U.S. states |
 | [Table 4: CS Offering by Title I Status](Tables/Table4_CS_by_TitleI.csv) | CS offering status by Title I classification |
