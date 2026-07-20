@@ -47,12 +47,13 @@ This repository produces a comprehensive set of descriptive statistics, summary 
 
 | Table | Description |
 |-------|-------------|
-| [Table 1: Distribution of CS Course Offerings](Tables/tab1_school_summary.csv) | Distribution and summary statistics of CS course offerings by school year |
-| [Table 2: School Characteristics](Tables/Table2_categorical_characteristics.csv) | Student demographics and school characteristics |
-| [Table 3: Geographic Distribution](Tables/Table3_state_distribution.csv) | Distribution of shortlisted schools across U.S. states |
-| [Table 4: CS Offering by Title I Status](Tables/Table4_CS_by_TitleI.csv) | CS offering status by Title I classification |
-| [Table 5: CS Offering by Race/Ethnicity](Tables/Table5_CS_by_Race.csv) | CS offering status by race/ethnicity |
-| [Table 6: CS Offering by Gender](Tables/Table6_CS_by_Gender.csv) | CS offering status by gender |                                                                                      |
+| [Table 1: Shortlisted Schools](Tables/tab1_school_summary.csv) | Summary of shortlisted schools across U.S. states |
+| [Table 2: School Characteristics](Tables/tab2_school_characteristics.csv) |Summary Statistics of shortlisted schools across U.S. states |
+| [Table 3: School Characteristics based on CS Offering](Tables/tab3_school_distribution.csv) |Summary Statistics of shortlisted schools based on CS Offerings |
+| [Table 4: Gender Distribution](Tables/tab4_gender_year.csv) | Distribution of Gender |
+| [Table 5: Gender Distribution based on CS Offering](Tables/tab5_gender_year_cs.csv) | Distribution of Gender based on CS Offering |
+| [Table 6: CS Offering by Race/Ethnicity](Tables/Table5_CS_by_Race.csv) | CS offering status by race/ethnicity |
+| [Table 7: CS Offering by Gender](Tables/Table6_CS_by_Gender.csv) | CS offering status by gender |                                                                                      |
 
 ---
 
