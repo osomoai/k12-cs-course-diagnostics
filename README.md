@@ -1,4 +1,4 @@
-# K–12 Computer Science Course Offerings: A Descriptive Analysis (2020–2022)
+# K–12 Computer Science Course Offerings in the United States: A Descriptive Analysis (2020–2022)
 
 This repository contains the descriptive analyses and visualizations used to characterize K–12 public schools included in the study of Computer Science (CS) course offerings during the 2020–2021 and 2021–2022 school years.
 
