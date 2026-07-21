@@ -60,7 +60,7 @@ This repository produces a comprehensive set of descriptive statistics, summary 
 | [Table 11: CS Offering Juvenile vs Non-juvenile schools](Tables/tab11_juvenile_cs.csv) | Distribution of juvenile status based on CS offering |
 | [Table 12: Grade-level of schools](Tables/tab12_grade_year.csv) | Grade levels across shortlisted schools  |
 | [Table 13: CS Offering by Grade-levels](Tables/tab13_grade_year_cs.csv) | CS offering based on grade levels of schools |     
-| [Table 14: Dsitribution of states of shortlisted schools](Tables/tab14_State_Distribution.csv) | List of states of shortlisted schools|
+| [Table 14: Dsitribution of states of shortlisted schools](Tables/Table14_State_Distribution.csv) | List of states of shortlisted schools|
 | [Table 15: CS Offering by States Across the U.S.](Tables/tab15_state_cs.csv) | CS offering based on states |     
 
 ---
