@@ -27,19 +27,17 @@ This repository addresses the following descriptive questions:
 
 ---
 
-## Analytical Outputs
+## Synopsis of Findings
 
-This repository produces a comprehensive set of descriptive statistics, summary tables, and visualizations examining K–12 computer science course offerings across U.S. public schools. The analyses include:
+Descriptive analyses of the shortlisted U.S. schools showed that approximately half of schools offered at least one computer science (CS) course (50.9%), while the remaining schools reported no CS course offerings. Among schools with CS offerings, the average number of courses offered was approximately three courses, although substantial variation existed across schools.
 
-- Distribution of CS course offerings by school year
-- School-level descriptive statistics
-- Gender composition of enrolled students
-- Racial and ethnic composition of enrolled students
-- Distribution of schools by Title I classification
-- Distribution of schools by Juvenile Justice status
-- Distribution of schools by grade level
-- Geographic distribution of schools across U.S. states
-- Comparisons of schools offering versus not offering CS courses across several demographic factors
+CS availability differed across institutional characteristics. High schools had the highest proportion of CS offerings, with approximately 51% offering at least one CS course, compared with 38% of middle schools and 32% of elementary schools. CS availability was substantially lower among juvenile justice schools, where only approximately 6–7% offered at least one CS course compared with approximately 52% of non-juvenile justice schools. Differences were also observed across Title I classifications, with Targeted Assistance schools (~59%) and non-Title I schools (~55–56%) showing higher CS availability than Schoolwide Title I schools (~48–49%) and Mixed Title I schools (~38–44%).
+
+Student enrollment patterns showed that approximately 71–73% of students attended schools offering at least one CS course, with minimal differences between female and male students. Access varied across racial and ethnic groups: students identifying as Asian had the highest proportion enrolled in schools offering CS courses (~81%), while American Indian students had the lowest (~58–59%). Hispanic, Black, White, and Multiracial students were enrolled in schools with CS offerings at rates ranging from approximately 67% to 75%. These findings describe differences in enrollment at schools with CS opportunities and do not represent differences in students' likelihood of taking CS courses.
+
+Geographic variation in CS availability was substantial. Several states had relatively high proportions of schools offering at least one CS course, including Nebraska (87.6% in 2020–2021; 76.9% in 2021–2022), Iowa (83.5%; 86.5%), South Carolina (82.6%; 80.7%), Maryland (78.1%; 80.5%), Connecticut (72.3%; 77.0%), and Virginia (78.4%; 75.2%). In contrast, lower CS availability was observed in states such as Alaska (24.3%; 19.9%), Florida (22.0%; 22.1%), Minnesota (27.5%; 25.3%), and Washington (32.7%; 39.4%). These patterns indicate substantial geographic differences in school-level CS availability across the United States.
+
+These findings summarize observed descriptive patterns and do not determine whether differences are statistically significant or independently associated with CS availability. The companion inferential analysis repository https://github.com/osomoai/multilevel-cs-access-analysis evaluates these relationships using a multilevel zero-inflated negative binomial modeling approach.
 
 ---
 
