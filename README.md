@@ -10,7 +10,7 @@ The analyses summarize the distribution of CS course offerings, school character
 
 **Follow the links below to access all the tables and figures generated from the analysis, located in the `Outputs/Tables/` and `Outputs/Figures/` directories.**
 
-Put the one figure here
+![Figure 2: Schools With and Without CS Offerings](Figures/fig2_cs_status.png)
 ---
 
 ## Focus
